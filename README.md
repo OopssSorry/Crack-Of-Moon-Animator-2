@@ -1,6 +1,6 @@
-# Crack-Of-Moon-Animator-2
-
-Version: V33000
+# Crack Of Moon Animator 2
+Version: `V33000`
+![Screenshot](https://github.com/OopssSorry/Crack-Of-Moon-Animator-2/blob/main/Screenshot.png?raw=true)
 
 ## Installation
 1. Download the "Moon Animator 2.rbxmx" file
@@ -9,4 +9,4 @@ Version: V33000
 4. Restart Roblox Studio
 5. Enjoy
 
-Have a nice day!
+**Have a nice day!**

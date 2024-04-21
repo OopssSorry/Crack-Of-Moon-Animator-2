@@ -1,5 +1,5 @@
 # Crack Of Moon Animator 2
-Version: `V33000`
+Moon Animator is simply the best animation plugin currently on the platform. It's highly versatile, some of the benefits you have over the Roblox animation editor are: mirroring animations (makes walk cycles consistent), onion skinning/ghost frames, a large variety of easing options--some configurable too, highly supportive community + tutorials.
 
 ![Screenshot](https://github.com/OopssSorry/Crack-Of-Moon-Animator-2/blob/main/Screenshot.png?raw=true)
 
